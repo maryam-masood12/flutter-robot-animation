@@ -14,7 +14,7 @@ class RobotAnimation extends StatefulWidget {
 
 class _RobotAnimationState extends State <RobotAnimation>with TickerProviderStateMixin{
 
-     String robotImage = "assets/images/blackoRobo.png";
+     String robotImage = "assets/images/blackRobo.png";
      String shape = "assets/images/circle.png";
 
      bool isRobotActive = false;
