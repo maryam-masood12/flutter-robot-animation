@@ -23,7 +23,7 @@ An interactive Flutter animation project featuring a robot with smooth UI transi
 - Tween Animation
 - SlideTransition
 
-- ## 💡 What I Learned
+## 💡 What I Learned
 
 During this project, I practiced:
 
@@ -38,6 +38,6 @@ During this project, I practiced:
 
 ## 👩‍💻 Author
 
-**Maryam Masood**
+**Maryam Masood**  
 Flutter Developer
 
